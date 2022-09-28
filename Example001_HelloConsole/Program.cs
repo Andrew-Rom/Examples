@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World! It's my first code");
+﻿Console.WriteLine("Hello, World! It's my first code.");
